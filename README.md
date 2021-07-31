@@ -1,4 +1,4 @@
 ## 项目介绍
 
-b站周阳SpringCloud2021项目实战
+周阳SpringCloud2021项目实战 & 学习总结
 
